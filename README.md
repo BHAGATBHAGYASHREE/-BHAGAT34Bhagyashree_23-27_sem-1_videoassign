@@ -6,9 +6,9 @@ video2:-https://drive.google.com/file/d/14jYVdOaSnAm56_5l1ziF4-Q2r5ct1JtQ/view?u
 
 C++
 
-video1:-https://drive.google.com/file/d/1GCfnLqXriL6Fps0U8IAsGofizK9TRSdt/view?usp=sharing
+video1:-https://youtu.be/R7qxg8OdAFA?feature=shared
 
-video2:-https://drive.google.com/file/d/1O5844nGadpjshrKLlynIR03fITCmpyFx/view?usp=drive_link
+video2:-https://youtu.be/S5wJyZos0jk?feature=shared
 
 Scratch
 
