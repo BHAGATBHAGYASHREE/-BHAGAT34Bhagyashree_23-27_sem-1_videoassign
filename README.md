@@ -12,4 +12,4 @@ video2:-https://youtu.be/S5wJyZos0jk?feature=shared
 
 Scratch
 
-video1:-https://drive.google.com/file/d/1VU8Gqm2GKb6AJlMcckqLoW9jjrEQRHaJ/view?usp=drive_link
+video1:-https://youtu.be/tz0H6N-8UiA?feature=shared
